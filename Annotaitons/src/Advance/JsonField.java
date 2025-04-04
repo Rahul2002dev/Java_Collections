@@ -1,0 +1,6 @@
+package Advance;
+
+
+@interface  JSONserialization{
+    
+}
